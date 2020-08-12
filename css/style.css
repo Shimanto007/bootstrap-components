@@ -1,0 +1,14 @@
+section{
+	margin-bottom: 50px;
+}
+.alert-sec h1, .alert-sec-dis h1, .badge-Component h1, .bread-Component h1, .btn-Component h1, .btn-grp h1, .carousel h1, .collapse-sec h1, .drpdwn h1{
+	text-align: center;
+	margin: 20px 0;
+	background-color: yellow;
+}
+.card{
+	margin: 0 auto;
+}
+.progress{
+	margin: 10px 0;
+}
